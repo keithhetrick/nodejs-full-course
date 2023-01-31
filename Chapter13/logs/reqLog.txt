@@ -1,0 +1,11 @@
+20230131	00:08:16	e422e608-9fe1-45de-810b-76e028262f55	POST	undefined	/auth
+20230131	00:08:32	85edb897-9269-4b3e-81ab-4d2fdb11344b	GET	undefined	/employees
+20230131	00:08:49	cdc2171a-aef3-4e67-aa8c-7822dc3a59ea	POST	undefined	/employees
+20230131	00:10:57	d5f11f0c-9689-46f4-ab23-fa23fe49fffa	POST	undefined	/auth
+20230131	00:11:25	d904d84e-9bec-401c-ae2a-2091dab034d9	POST	undefined	/auth
+20230131	00:11:49	95c66c10-77ed-4714-bef8-530e9a9d5522	POST	undefined	/employees
+20230131	00:12:25	9c98a0bd-da3b-4ade-838a-09a045e626a4	POST	undefined	/auth
+20230131	00:12:51	2e4dcf85-7394-47d2-a163-3a7c662a46ac	DELETE	undefined	/employees
+20230131	00:12:59	a1c4cf50-e1d4-40cd-baa3-b1729f71777a	DELETE	undefined	/employees
+20230131	00:13:55	9149da8b-668b-49cb-9d01-0ac356d12f47	POST	undefined	/auth
+20230131	00:14:10	d2381f7f-4301-4be7-a475-6f6943c63cee	DELETE	undefined	/employees
